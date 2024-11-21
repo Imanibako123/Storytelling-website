@@ -1,0 +1,33 @@
+P{color:red}
+
+/*who{ what: how;}*/
+h1{color:black}
+h2{color:black}
+
+
+
+
+
+li{color: purple}
+ol{color:turquoise} 
+ul{color: teal}
+
+.list{color:green}
+.red { 
+    color:red;
+    margin:10px
+    
+    Text-align:center;
+    
+}
+    #header{
+        color:black;
+        Text-align:center 
+
+        
+    }
+    #wind{
+        color:blue;
+        text-align:center;
+
+    }
